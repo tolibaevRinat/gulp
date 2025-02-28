@@ -1,6 +1,1 @@
-body {
-  background-color: lightgreen;
-}
-body span {
-  color: red;
-}
+.no-webp body{background-image:url(../img/lambo.jpg)}body{background-color:#90ee90}body span{color:red}@media (width < 797px){span{font-size:30px}body{background-color:#fff}}.webp body{background-image:url(../img/lambo.webp)}

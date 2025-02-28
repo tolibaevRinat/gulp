@@ -3,4 +3,18 @@ body {
 	span {
 		color: red;
 	}
+
+	background-image: url('@img/lambo.jpg');
+}
+
+@media (width < 797px) {
+	span {
+		font-size: 30px;
+	}
+}
+
+@media (width < 797px) {
+	body {
+		background-color: #fff;
+	}
 }
